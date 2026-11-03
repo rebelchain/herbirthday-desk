@@ -43,6 +43,5 @@ Sistem ini diintegrasikan dengan berbagai fitur interaktif tingkat lanjut guna m
 
 <p align="center">
   <strong>Made with ❤️ and absolute sincerity by <a href="https://github.com/r3belchain">Azhar Aufa</a></strong><br>
-  <span>Digital Artisan & Systems Thinker</span><br>
   <em>© 2026 — 0xR3bel • Crafted for Hanum</em>
 </p>
